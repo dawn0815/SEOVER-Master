@@ -5,17 +5,23 @@ This code is the implementation of paper：
 
 ## Quick Start:
 
-### 1.IEMOCAP Dataset
+### 1. Download the code
 
-run iemocap_lstm.py
+git clone https://github.com/dawn0815/SEOVER-Master.git
 
-run iemocap_rnn.py
+### 2. Train the model
 
-### 2.MELD Dataset
+#### On MELD Dataset:
 
 run meld_lstm.py
 
 run meld_rnn.py
+
+####  On IEMOCAP Dataset:
+
+run iemocap_lstm.py
+
+run iemocap_rnn.py
 
 ## Requirement:
 
