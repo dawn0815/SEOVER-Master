@@ -33,3 +33,6 @@ Please cite the following paper if you find this code useful in your work.
 
 Li Z., Tang F., Sun T., Zhu Y., Zhao M. (2021) SEOVER: Sentence-Level Emotion Orientation Vector Based Conversation Emotion Recognition Model. In: Mantoro T., Lee M., Ayu M.A., Wong K.W., Hidayanto A.N. (eds) Neural Information Processing. ICONIP 2021. Communications in Computer and Information Science, vol 1517. Springer, Cham. https://doi.org/10.1007/978-3-030-92310-5_54
 
+## References
+
+[DialogueRNN](https://github.com/declare-lab/conv-emotion)
