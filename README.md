@@ -3,6 +3,10 @@ This code is the implementation of paper：
 
 [SEOVER: Sentence-level Emotion Orientation Vector based Conversation Emotion Recognition Model](https://link.springer.com/chapter/10.1007/978-3-030-92310-5_54)
 
+## Note:
+
+There are some problems with codes on MELD dataset,we will update soon.
+
 ## Quick Start:
 
 ### 1. Download the code
