@@ -15,12 +15,6 @@ git clone https://github.com/dawn0815/SEOVER-Master.git
 
 ### 2. Train the model
 
-#### On MELD Dataset:
-
-run meld_lstm.py
-
-run meld_rnn.py
-
 ####  On IEMOCAP Dataset:
 
 run iemocap_lstm.py
