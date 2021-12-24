@@ -35,4 +35,5 @@ Li Z., Tang F., Sun T., Zhu Y., Zhao M. (2021) SEOVER: Sentence-Level Emotion Or
 
 ## References
 
-[DialogueRNN](https://github.com/declare-lab/conv-emotion)
+[DialogueRNN](https://github.com/declare-lab/conv-emotion/tree/master/DialogueRNN)
+[bc-LSTM]()
