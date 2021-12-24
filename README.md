@@ -25,7 +25,7 @@ run iemocap_rnn.py
 
 ## Requirement:
 
-pytorch==1.8.1
+pytorch>=1.4.0
 
 ## Citation:
 
