@@ -5,7 +5,8 @@ This code is the implementation of paper：
 
 ## Note:
 
-There are some problems with codes on MELD dataset,we will update soon.
+This code is the part of full paper,which use DialogueRNN and bc-LSTM as benchmark models to compare the rusult on MELD and IEMOCAP datasets.
+More codes wil update soon.
 
 ## Quick Start:
 
@@ -20,6 +21,12 @@ git clone https://github.com/dawn0815/SEOVER-Master.git
 run iemocap_lstm.py
 
 run iemocap_rnn.py
+
+####  On MELD Dataset:
+
+run meld_lstm.py
+
+run meld_rnn.py
 
 ## Requirement:
 
